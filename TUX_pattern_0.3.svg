@@ -48,7 +48,7 @@
   <polyline points="40970,46881 40997,46881" style="fill:none"/>
   <polyline points="41256,52613 40388,52598 39575,52555 38815,52486 38106,52393 37445,52277 36832,52140 36265,51984 35741,51810 35259,51620 34818,51417 34415,51201 34050,50974 33719,50739 33421,50497 33155,50250 32919,49999 32711,49747 32530,49494 32373,49243 32238,48996 32125,48754 32031,48519 31955,48292 31894,48076 31848,47873 31814,47683 31790,47509 31776,47353 31768,47216 31766,47100 31767,47007 31770,46938 31773,46895 31775,46881" style="fill:none"/>
   <polyline points="36405,39164 35655,39964 34989,40713 34403,41411 33891,42060 33449,42660 33071,43213 32752,43721 32489,44183 32274,44602 32105,44979 31975,45314 31880,45608 31815,45864 31774,46082 31754,46263 31748,46409 31752,46520 31761,46598 31770,46644 31775,46660" style="fill:none"/>
-  <polyline points="36842,32192 36377,32722 36130,33192 36058,33602 36116,33951 36261,34238 36450,34463 36638,34624 36783,34721 36842,34754 36829,34877 36796,35212 36746,35706 36686,36306 36621,36959 36556,37611 36496,38211 36446,38705 36413,39040 36401,39164" style="fill:none"/>
+  <polyline points="36843,32192 36378,32722 36131,33192 36059,33602 36117,33951 36262,34238 36451,34463 36639,34624 36784,34721 36843,34754 36830,34877 36797,35212 36747,35706 36687,36306 36622,36959 36557,37611 36497,38211 36447,38705 36414,39040 36402,39164" style="fill:none"/>
   <polyline points="2425,54464 13890,54464" style="fill:none"/>
   <polyline points="7743,49503 7743,49529" style="fill:none"/>
   <polyline points="7743,49986 7743,50013" style="fill:none"/>
@@ -332,7 +332,7 @@
   <polyline points="38466,19431 38493,19431" style="fill:none"/>
   <polyline points="38950,19431 38977,19431" style="fill:none"/>
   <polyline points="39434,19431 39461,19431" style="fill:none"/>
-  <polyline points="32214,14774 31389,14793 30629,14850 29931,14941 29293,15063 28711,15213 28183,15389 27706,15587 27279,15804 26897,16038 26559,16285 26262,16542 26003,16807 25780,17077 25590,17347 25431,17617 25299,17882 25192,18139 25108,18386 25044,18620 24998,18837 24966,19035 24946,19211 24935,19361 24932,19483 24933,19574 24935,19631 24937,19651" style="fill:none"/>
+  <polyline points="32215,14774 31390,14793 30630,14850 29932,14941 29294,15063 28712,15213 28184,15389 27707,15587 27280,15804 26898,16038 26560,16285 26263,16542 26004,16807 25781,17077 25591,17347 25432,17617 25300,17882 25193,18139 25109,18386 25045,18620 24999,18837 24967,19035 24947,19211 24936,19361 24933,19483 24934,19574 24936,19631 24938,19651" style="fill:none"/>
   <polyline points="32431,14774 33255,14793 34015,14850 34713,14941 35351,15063 35933,15213 36461,15389 36938,15587 37365,15804 37747,16038 38085,16285 38382,16542 38641,16807 38864,17077 39054,17347 39213,17617 39345,17882 39452,18139 39536,18386 39600,18620 39646,18837 39678,19035 39698,19211 39709,19361 39712,19483 39711,19574 39709,19631 39708,19651" style="fill:none"/>
   <polyline points="33541,29132 33493,29483 33360,29799 33153,30067 32885,30274 32569,30407 32218,30455 31866,30407 31550,30274 31282,30067 31075,29799 30942,29483 30895,29132" style="fill:none"/>
   <polyline points="24941,19431 30895,29352" style="fill:none"/>
@@ -374,8 +374,8 @@
   <polyline points="26289,10233 26262,10234" style="fill:none"/>
   <polyline points="25805,10242 25778,10243" style="fill:none"/>
   <polyline points="25439,4520 25555,10656" style="fill:none"/>
-  <polyline points="25439,4520 26343,4133 27216,3786 28058,3478 28869,3206 29649,2971 30400,2770 31122,2603 31816,2468 -33055,2364 -32417,2289 -31806,2242 -31221,2222 -30661,2229 -30127,2259 -29617,2313 -29131,2388 -28669,2484 -28230,2600 -27812,2733 -27417,2883 -27042,3049 -26688,3229 -26355,3422 -26040,3626 -25744,3841 -25467,4065 -25207,4297 -24965,4535 -24739,4779 -24529,5027 -24335,5277 -24155,5529 -23990,5781 -23838,6031 -23700,6280 -23574,6525 -23460,6764 -23358,6998 -23267,7224 -23185,7441 -23114,7649 -23052,7845 -22998,8028 -22953,8198 -22915,8352 -22884,8490 -22859,8610 -22840,8711 -22826,8792 -22817,8851 -22812,8888 -22810,8901 -22810,8932 -22808,9003 -22807,9073 -22806,9105" style="fill:none"/>
-  <polyline points="25555,10849 26436,10597 27272,10368 28064,10161 28812,9974 29519,9807 30185,9659 30811,9529 31400,9417 31951,9321 -33070,9241 -32589,9175 -32142,9124 -31727,9086 -31343,9060 -30989,9046 -30664,9042 -30366,9048 -30094,9064 -29848,9087 -29625,9118 -29425,9156 -29246,9199 -29087,9247 -28947,9299 -28826,9355 -28720,9413 -28631,9472 -28555,9533 -28492,9593 -28441,9652 -28401,9710 -28370,9765 -28347,9817 -28331,9864 -28321,9907 -28316,9943 -28313,9973 -28313,9996 -28314,10010 -28314,10015" style="fill:none"/>
+  <polyline points="25439,4520 26343,4133 27216,3786 28058,3478 28869,3206 29649,2971 30400,2770 31122,2603 31816,2468 -33055,2364 -32417,2289 -31806,2242 -31221,2222 -30661,2229 -30127,2259 -29617,2313 -29132,2388 -28669,2484 -28230,2600 -27813,2733 -27417,2883 -27043,3049 -26689,3229 -26355,3422 -26041,3626 -25745,3841 -25468,4065 -25208,4297 -24966,4535 -24740,4779 -24530,5027 -24335,5277 -24156,5529 -23990,5781 -23839,6031 -23701,6280 -23575,6525 -23461,6764 -23359,6998 -23267,7224 -23186,7441 -23115,7649 -23053,7845 -22999,8028 -22954,8198 -22916,8352 -22885,8490 -22860,8610 -22841,8711 -22827,8792 -22818,8851 -22813,8888 -22811,8901 -22811,8932 -22809,9003 -22808,9073 -22807,9105" style="fill:none"/>
+  <polyline points="25556,10852 26437,10600 27273,10371 28065,10164 28813,9977 29520,9810 30186,9662 30813,9532 31401,9420 31952,9324 -33069,9244 -32588,9178 -32141,9127 -31726,9089 -31342,9063 -30988,9049 -30663,9045 -30365,9051 -30093,9067 -29846,9090 -29623,9121 -29423,9159 -29244,9202 -29085,9250 -28946,9302 -28824,9358 -28719,9416 -28629,9475 -28553,9536 -28490,9596 -28439,9655 -28399,9713 -28368,9768 -28345,9820 -28329,9867 -28319,9910 -28314,9946 -28311,9976 -28311,9999 -28312,10013 -28312,10018" style="fill:none"/>
   <polyline points="42704,9306 42717,9382 42727,9459 42733,9537 42737,9617 42689,10050 42536,10456 42289,10825 41958,11150 41555,11419 41090,11626 40575,11761 40021,11816 39465,11782 38945,11667 38473,11478 38060,11223 37718,10912 37456,10552 37288,10152 37224,9721 37224,9690 37224,9659 37225,9628 37227,9598" style="fill:none"/>
  </g>
  <g style="stroke:none;fill:rgb(0,0,0)">
@@ -503,7 +503,7 @@
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:1693;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <text x="49636" y="3255">Tux Pattern Version 0.2, 02. May 2004
+   <text x="49636" y="3255">Tux Pattern Version 0.3, 02. May 2004
    </text>
    <text x="49636" y="5319">http://www.free-penguin.org
    </text>
@@ -24722,683 +24722,491 @@ wGlK6PwD4bJNowjucqAKF8nx/wG93+LZy8OceAAAAABJRU5ErkJggg=="/>
    </text>
   </g>
   <g style="stroke:none;fill:rgb(255,255,153)">
-   <polygon points="24881,33132 24878,32976 24869,32820 24853,32665 24831,32511 24804,32358 24770,32208 24730,32060 24684,31915 24633,31773 24576,31634 24514,31499 24446,31368 24373,31242 24296,31121 24213,31005 24126,30895 24035,30790 23940,30691 23841,30598 23738,30512 23632,30433 23523,30360 23412,30295 23298,30237 23181,30187 23063,30144 22943,30108 22822,30081 22700,30061 22578,30049 22455,30045 22455,30045 22332,30049 22210,30061 22088,30081 21967,30108 21847,30144 21729,30187 21612,30237 21498,30295 21387,30360 21278,30433 21172,30512 21069,30598 20970,30691 20875,30790 20784,30895 20697,31005 20614,31121 20537,31242 20464,31368 20396,31499 20334,31634 20277,31773 20226,31915 20180,32060 20140,32208 20106,32358 20079,32511 20057,32665 20041,32820 20032,32976 20029,33132 20029,33132 20032,33288 20041,33444 20057,33599 20079,33753 20106,33906 20140,34056 20180,34204 20226,34349 20277,34491 20334,34630 20396,34765 20464,34896 20537,35022 20614,35143 20697,35259 20784,35369 20875,35474 20970,35573 21069,35666 21172,35752 21278,35831 21387,35904 21498,35969 21612,36027 21729,36077 21847,36120 21967,36156 22088,36183 22210,36203 22332,36215 22455,36219 22455,36219 22578,36215 22700,36203 22822,36183 22943,36156 23063,36120 23181,36077 23298,36027 23412,35969 23523,35904 23632,35831 23738,35752 23841,35666 23940,35573 24035,35474 24126,35369 24213,35259 24296,35143 24373,35022 24446,34896 24514,34765 24576,34630 24633,34491 24684,34349 24730,34204 24770,34056 24804,33906 24831,33753 24853,33599 24869,33444 24878,33288 24881,33132"/>
+   <polygon points="23885,33660 23882,33504 23873,33348 23857,33193 23835,33039 23808,32886 23774,32736 23734,32588 23688,32443 23637,32301 23580,32162 23518,32027 23450,31896 23377,31770 23300,31649 23217,31533 23130,31423 23039,31318 22944,31219 22845,31126 22742,31040 22636,30961 22527,30888 22416,30823 22302,30765 22185,30715 22067,30672 21947,30636 21826,30609 21704,30589 21582,30577 21459,30573 21459,30573 21336,30577 21214,30589 21092,30609 20971,30636 20851,30672 20733,30715 20616,30765 20502,30823 20391,30888 20282,30961 20176,31040 20073,31126 19974,31219 19879,31318 19788,31423 19701,31533 19618,31649 19541,31770 19468,31896 19400,32027 19338,32162 19281,32301 19230,32443 19184,32588 19144,32736 19110,32886 19083,33039 19061,33193 19045,33348 19036,33504 19033,33660 19033,33660 19036,33816 19045,33972 19061,34127 19083,34281 19110,34434 19144,34584 19184,34732 19230,34877 19281,35019 19338,35158 19400,35293 19468,35424 19541,35550 19618,35671 19701,35787 19788,35897 19879,36002 19974,36101 20073,36194 20176,36280 20282,36359 20391,36432 20502,36497 20616,36555 20733,36605 20851,36648 20971,36684 21092,36711 21214,36731 21336,36743 21459,36747 21459,36747 21582,36743 21704,36731 21826,36711 21947,36684 22067,36648 22185,36605 22302,36555 22416,36497 22527,36432 22636,36359 22742,36280 22845,36194 22944,36101 23039,36002 23130,35897 23217,35787 23300,35671 23377,35550 23450,35424 23518,35293 23580,35158 23637,35019 23688,34877 23734,34732 23774,34584 23808,34434 23835,34281 23857,34127 23873,33972 23882,33816 23885,33660"/>
   </g>
   <g style="stroke:rgb(0,0,0);fill:none">
-   <polyline points="14518,2568 14518,2594" style="fill:none"/>
-   <polyline points="14518,3051 14518,3078" style="fill:none"/>
-   <polyline points="14518,3535 14518,3562" style="fill:none"/>
-   <polyline points="14518,4019 14518,4046" style="fill:none"/>
-   <polyline points="14518,4503 14518,4530" style="fill:none"/>
-   <polyline points="14518,4987 14518,5014" style="fill:none"/>
-   <polyline points="14518,5471 14518,5498" style="fill:none"/>
-   <polyline points="14518,5955 14518,5982" style="fill:none"/>
-   <polyline points="14518,6439 14518,6466" style="fill:none"/>
-   <polyline points="14518,6923 14518,6950" style="fill:none"/>
-   <polyline points="14518,7407 14518,7434" style="fill:none"/>
-   <polyline points="14518,7891 14518,7918" style="fill:none"/>
-   <polyline points="14518,8375 14518,8402" style="fill:none"/>
-   <polyline points="14518,8859 14518,8886" style="fill:none"/>
-   <polyline points="14518,9343 14518,9370" style="fill:none"/>
-   <polyline points="14518,9827 14518,9854" style="fill:none"/>
-   <polyline points="14518,10311 14518,10338" style="fill:none"/>
-   <polyline points="14518,10795 14518,10822" style="fill:none"/>
-   <polyline points="14518,11279 14518,11306" style="fill:none"/>
-   <polyline points="14518,11763 14518,11790" style="fill:none"/>
-   <polyline points="14518,12247 14518,12273" style="fill:none"/>
-   <polyline points="14518,12730 14518,12757" style="fill:none"/>
-   <polyline points="14518,13214 14518,13241" style="fill:none"/>
-   <polyline points="14518,13698 14518,13725" style="fill:none"/>
-   <polyline points="14518,14182 14518,14209" style="fill:none"/>
-   <polyline points="14518,14666 14518,14693" style="fill:none"/>
-   <polyline points="14518,15150 14518,15177" style="fill:none"/>
-   <polyline points="14518,15634 14518,15661" style="fill:none"/>
-   <polyline points="14518,16118 14518,16145" style="fill:none"/>
-   <polyline points="14518,16602 14518,16629" style="fill:none"/>
-   <polyline points="14518,17086 14518,17113" style="fill:none"/>
-   <polyline points="14518,17570 14518,17597" style="fill:none"/>
-   <polyline points="14518,18054 14518,18081" style="fill:none"/>
-   <polyline points="14518,18538 14518,18565" style="fill:none"/>
-   <polyline points="14518,19022 14518,19049" style="fill:none"/>
-   <polyline points="14518,19506 14518,19533" style="fill:none"/>
-   <polyline points="14518,19990 14518,20017" style="fill:none"/>
-   <polyline points="14518,20474 14518,20501" style="fill:none"/>
-   <polyline points="14518,20958 14518,20985" style="fill:none"/>
-   <polyline points="14518,21442 14518,21469" style="fill:none"/>
-   <polyline points="14518,21926 14518,21952" style="fill:none"/>
-   <polyline points="14518,22409 14518,22436" style="fill:none"/>
-   <polyline points="14518,22893 14518,22920" style="fill:none"/>
-   <polyline points="14518,23377 14518,23404" style="fill:none"/>
-   <polyline points="14518,23861 14518,23888" style="fill:none"/>
-   <polyline points="14518,24345 14518,24372" style="fill:none"/>
-   <polyline points="14518,24829 14518,24856" style="fill:none"/>
-   <polyline points="14518,25313 14518,25340" style="fill:none"/>
-   <polyline points="14518,25797 14518,25824" style="fill:none"/>
-   <polyline points="14518,26281 14518,26308" style="fill:none"/>
-   <polyline points="14518,26765 14518,26792" style="fill:none"/>
-   <polyline points="14518,27249 14518,27276" style="fill:none"/>
-   <polyline points="14518,27733 14518,27760" style="fill:none"/>
-   <polyline points="14518,28217 14518,28244" style="fill:none"/>
-   <polyline points="14518,28701 14518,28728" style="fill:none"/>
-   <polyline points="14518,29185 14518,29212" style="fill:none"/>
-   <polyline points="14518,29669 14518,29696" style="fill:none"/>
-   <polyline points="14518,30153 14518,30180" style="fill:none"/>
-   <polyline points="14518,30637 14518,30664" style="fill:none"/>
-   <polyline points="14518,31121 14518,31148" style="fill:none"/>
-   <polyline points="14518,31605 14518,31631" style="fill:none"/>
-   <polyline points="14518,32088 14518,32115" style="fill:none"/>
-   <polyline points="14518,32572 14518,32599" style="fill:none"/>
-   <polyline points="14518,33056 14518,33083" style="fill:none"/>
-   <polyline points="14518,33540 14518,33567" style="fill:none"/>
-   <polyline points="14518,34024 14518,34051" style="fill:none"/>
-   <polyline points="14518,34508 14518,34535" style="fill:none"/>
-   <polyline points="14518,34992 14518,35019" style="fill:none"/>
-   <polyline points="14518,35476 14518,35503" style="fill:none"/>
-   <polyline points="14518,35960 14518,35987" style="fill:none"/>
-   <polyline points="14518,36444 14518,36471" style="fill:none"/>
-   <polyline points="7242,7114 7268,7114" style="fill:none"/>
-   <polyline points="7725,7114 7752,7114" style="fill:none"/>
-   <polyline points="8209,7114 8236,7114" style="fill:none"/>
-   <polyline points="8693,7114 8720,7114" style="fill:none"/>
-   <polyline points="9177,7114 9204,7114" style="fill:none"/>
-   <polyline points="9661,7114 9688,7114" style="fill:none"/>
-   <polyline points="10145,7114 10172,7114" style="fill:none"/>
-   <polyline points="10629,7114 10656,7114" style="fill:none"/>
-   <polyline points="11113,7114 11140,7114" style="fill:none"/>
-   <polyline points="11597,7114 11624,7114" style="fill:none"/>
-   <polyline points="12081,7114 12108,7114" style="fill:none"/>
-   <polyline points="12565,7114 12592,7114" style="fill:none"/>
-   <polyline points="13049,7114 13076,7114" style="fill:none"/>
-   <polyline points="13533,7114 13560,7114" style="fill:none"/>
-   <polyline points="14017,7114 14044,7114" style="fill:none"/>
-   <polyline points="14501,7114 14519,7114" style="fill:none"/>
-   <polyline points="7243,20344 7269,20344" style="fill:none"/>
-   <polyline points="7726,20344 7753,20344" style="fill:none"/>
-   <polyline points="8210,20344 8237,20344" style="fill:none"/>
-   <polyline points="8694,20344 8721,20344" style="fill:none"/>
-   <polyline points="9178,20344 9205,20344" style="fill:none"/>
-   <polyline points="9662,20344 9689,20344" style="fill:none"/>
-   <polyline points="10146,20344 10173,20344" style="fill:none"/>
-   <polyline points="10630,20344 10657,20344" style="fill:none"/>
-   <polyline points="11114,20344 11141,20344" style="fill:none"/>
-   <polyline points="11598,20344 11625,20344" style="fill:none"/>
-   <polyline points="12082,20344 12109,20344" style="fill:none"/>
-   <polyline points="12566,20344 12593,20344" style="fill:none"/>
-   <polyline points="13050,20344 13077,20344" style="fill:none"/>
-   <polyline points="13534,20344 13561,20344" style="fill:none"/>
-   <polyline points="14018,20344 14045,20344" style="fill:none"/>
-   <polyline points="14502,20344 14520,20344" style="fill:none"/>
-   <polyline points="4155,36660 4181,36660" style="fill:none"/>
-   <polyline points="4638,36660 4665,36660" style="fill:none"/>
-   <polyline points="5122,36660 5149,36660" style="fill:none"/>
-   <polyline points="5606,36660 5633,36660" style="fill:none"/>
-   <polyline points="6090,36660 6117,36660" style="fill:none"/>
-   <polyline points="6574,36660 6601,36660" style="fill:none"/>
-   <polyline points="7058,36660 7085,36660" style="fill:none"/>
-   <polyline points="7542,36660 7569,36660" style="fill:none"/>
-   <polyline points="8026,36660 8053,36660" style="fill:none"/>
-   <polyline points="8510,36660 8537,36660" style="fill:none"/>
-   <polyline points="8994,36660 9021,36660" style="fill:none"/>
-   <polyline points="9478,36660 9505,36660" style="fill:none"/>
-   <polyline points="9962,36660 9989,36660" style="fill:none"/>
-   <polyline points="10446,36660 10473,36660" style="fill:none"/>
-   <polyline points="10930,36660 10957,36660" style="fill:none"/>
-   <polyline points="11414,36660 11441,36660" style="fill:none"/>
-   <polyline points="11898,36660 11925,36660" style="fill:none"/>
-   <polyline points="12382,36660 12409,36660" style="fill:none"/>
-   <polyline points="12866,36660 12893,36660" style="fill:none"/>
-   <polyline points="13350,36660 13377,36660" style="fill:none"/>
-   <polyline points="13834,36660 13860,36660" style="fill:none"/>
-   <polyline points="14317,36660 14344,36660" style="fill:none"/>
-   <polyline points="14518,36660 14544,36660" style="fill:none"/>
-   <polyline points="15001,36660 15028,36660" style="fill:none"/>
-   <polyline points="15485,36660 15512,36660" style="fill:none"/>
-   <polyline points="15969,36660 15996,36660" style="fill:none"/>
-   <polyline points="16453,36660 16480,36660" style="fill:none"/>
-   <polyline points="16937,36660 16964,36660" style="fill:none"/>
-   <polyline points="17421,36660 17448,36660" style="fill:none"/>
-   <polyline points="17905,36660 17932,36660" style="fill:none"/>
-   <polyline points="18389,36660 18416,36660" style="fill:none"/>
-   <polyline points="18873,36660 18900,36660" style="fill:none"/>
-   <polyline points="19357,36660 19384,36660" style="fill:none"/>
-   <polyline points="19841,36660 19868,36660" style="fill:none"/>
-   <polyline points="20325,36660 20352,36660" style="fill:none"/>
-   <polyline points="20809,36660 20836,36660" style="fill:none"/>
-   <polyline points="21293,36660 21320,36660" style="fill:none"/>
-   <polyline points="21777,36660 21804,36660" style="fill:none"/>
-   <polyline points="22261,36660 22288,36660" style="fill:none"/>
-   <polyline points="22745,36660 22772,36660" style="fill:none"/>
-   <polyline points="23229,36660 23256,36660" style="fill:none"/>
-   <polyline points="23713,36660 23740,36660" style="fill:none"/>
-   <polyline points="24197,36660 24223,36660" style="fill:none"/>
-   <polyline points="24680,36660 24707,36660" style="fill:none"/>
-   <polyline points="25164,36660 25191,36660" style="fill:none"/>
-   <polyline points="25648,36660 25675,36660" style="fill:none"/>
-   <polyline points="26132,36660 26159,36660" style="fill:none"/>
-   <polyline points="26616,36660 26643,36660" style="fill:none"/>
-   <polyline points="27100,36660 27127,36660" style="fill:none"/>
-   <polyline points="27584,36660 27611,36660" style="fill:none"/>
-   <polyline points="28068,36660 28095,36660" style="fill:none"/>
-   <polyline points="28552,36660 28579,36660" style="fill:none"/>
-   <polyline points="14519,7114 14545,7114" style="fill:none"/>
-   <polyline points="15002,7114 15029,7114" style="fill:none"/>
-   <polyline points="15486,7114 15513,7114" style="fill:none"/>
-   <polyline points="15970,7114 15997,7114" style="fill:none"/>
-   <polyline points="16454,7114 16481,7114" style="fill:none"/>
-   <polyline points="16938,7114 16965,7114" style="fill:none"/>
-   <polyline points="17422,7114 17449,7114" style="fill:none"/>
-   <polyline points="17906,7114 17933,7114" style="fill:none"/>
-   <polyline points="18390,7114 18417,7114" style="fill:none"/>
-   <polyline points="18874,7114 18901,7114" style="fill:none"/>
-   <polyline points="19358,7114 19385,7114" style="fill:none"/>
-   <polyline points="19842,7114 19869,7114" style="fill:none"/>
-   <polyline points="20326,7114 20353,7114" style="fill:none"/>
-   <polyline points="20810,7114 20837,7114" style="fill:none"/>
-   <polyline points="21294,7114 21321,7114" style="fill:none"/>
-   <polyline points="21778,7114 21796,7114" style="fill:none"/>
-   <polyline points="14519,13288 14545,13288" style="fill:none"/>
-   <polyline points="15002,13288 15029,13288" style="fill:none"/>
-   <polyline points="15486,13288 15513,13288" style="fill:none"/>
-   <polyline points="15970,13288 15997,13288" style="fill:none"/>
-   <polyline points="16454,13288 16481,13288" style="fill:none"/>
-   <polyline points="16938,13288 16965,13288" style="fill:none"/>
-   <polyline points="17422,13288 17449,13288" style="fill:none"/>
-   <polyline points="17906,13288 17933,13288" style="fill:none"/>
-   <polyline points="18390,13288 18417,13288" style="fill:none"/>
-   <polyline points="18874,13288 18901,13288" style="fill:none"/>
-   <polyline points="19358,13288 19385,13288" style="fill:none"/>
-   <polyline points="19842,13288 19869,13288" style="fill:none"/>
-   <polyline points="20326,13288 20353,13288" style="fill:none"/>
-   <polyline points="20810,13288 20837,13288" style="fill:none"/>
-   <polyline points="21294,13288 21321,13288" style="fill:none"/>
-   <polyline points="21778,13288 21805,13288" style="fill:none"/>
-   <polyline points="22262,13288 22289,13288" style="fill:none"/>
-   <polyline points="22746,13288 22773,13288" style="fill:none"/>
-   <polyline points="14518,14831 14544,14831" style="fill:none"/>
-   <polyline points="15001,14831 15028,14831" style="fill:none"/>
-   <polyline points="15485,14831 15512,14831" style="fill:none"/>
-   <polyline points="15969,14831 15996,14831" style="fill:none"/>
-   <polyline points="16453,14831 16480,14831" style="fill:none"/>
-   <polyline points="16937,14831 16964,14831" style="fill:none"/>
-   <polyline points="17421,14831 17448,14831" style="fill:none"/>
-   <polyline points="17905,14831 17932,14831" style="fill:none"/>
-   <polyline points="18389,14831 18416,14831" style="fill:none"/>
-   <polyline points="18873,14831 18900,14831" style="fill:none"/>
-   <polyline points="14519,16375 14545,16375" style="fill:none"/>
-   <polyline points="15002,16375 15029,16375" style="fill:none"/>
-   <polyline points="15486,16375 15513,16375" style="fill:none"/>
-   <polyline points="15970,16375 15997,16375" style="fill:none"/>
-   <polyline points="16454,16375 16481,16375" style="fill:none"/>
-   <polyline points="16938,16375 16965,16375" style="fill:none"/>
-   <polyline points="17422,16375 17449,16375" style="fill:none"/>
-   <polyline points="17906,16375 17933,16375" style="fill:none"/>
-   <polyline points="18390,16375 18417,16375" style="fill:none"/>
-   <polyline points="18874,16375 18901,16375" style="fill:none"/>
-   <polyline points="19358,16375 19369,16375" style="fill:none"/>
-   <polyline points="14519,22548 14545,22548" style="fill:none"/>
-   <polyline points="15002,22548 15029,22548" style="fill:none"/>
-   <polyline points="15486,22548 15513,22548" style="fill:none"/>
-   <polyline points="15970,22548 15997,22548" style="fill:none"/>
-   <polyline points="16454,22548 16481,22548" style="fill:none"/>
-   <polyline points="16938,22548 16965,22548" style="fill:none"/>
-   <polyline points="17422,22548 17449,22548" style="fill:none"/>
-   <polyline points="17906,22548 17933,22548" style="fill:none"/>
-   <polyline points="18390,22548 18417,22548" style="fill:none"/>
-   <polyline points="18874,22548 18901,22548" style="fill:none"/>
-   <polyline points="14519,28061 14545,28061" style="fill:none"/>
-   <polyline points="15002,28061 15029,28061" style="fill:none"/>
-   <polyline points="15486,28061 15513,28061" style="fill:none"/>
-   <polyline points="15970,28061 15997,28061" style="fill:none"/>
-   <polyline points="16454,28061 16481,28061" style="fill:none"/>
-   <polyline points="16938,28061 16965,28061" style="fill:none"/>
-   <polyline points="17422,28061 17449,28061" style="fill:none"/>
-   <polyline points="17906,28061 17933,28061" style="fill:none"/>
-   <polyline points="18390,28061 18417,28061" style="fill:none"/>
-   <polyline points="18874,28061 18901,28061" style="fill:none"/>
-   <polyline points="19358,28061 19385,28061" style="fill:none"/>
-   <polyline points="19842,28061 19869,28061" style="fill:none"/>
-   <polyline points="20326,28061 20353,28061" style="fill:none"/>
-   <polyline points="20810,28061 20837,28061" style="fill:none"/>
-   <polyline points="21294,28061 21321,28061" style="fill:none"/>
-   <polyline points="21778,28061 21796,28061" style="fill:none"/>
-   <polyline points="14519,32911 14545,32911" style="fill:none"/>
-   <polyline points="15002,32911 15029,32911" style="fill:none"/>
-   <polyline points="15486,32911 15513,32911" style="fill:none"/>
-   <polyline points="15970,32911 15997,32911" style="fill:none"/>
-   <polyline points="16454,32911 16481,32911" style="fill:none"/>
-   <polyline points="16938,32911 16965,32911" style="fill:none"/>
-   <polyline points="17422,32911 17449,32911" style="fill:none"/>
-   <polyline points="17906,32911 17933,32911" style="fill:none"/>
-   <polyline points="18390,32911 18417,32911" style="fill:none"/>
-   <polyline points="18874,32911 18901,32911" style="fill:none"/>
-   <polyline points="19358,32911 19385,32911" style="fill:none"/>
-   <polyline points="19842,32911 19869,32911" style="fill:none"/>
-   <polyline points="20326,32911 20353,32911" style="fill:none"/>
-   <polyline points="20810,32911 20837,32911" style="fill:none"/>
-   <polyline points="21294,32911 21321,32911" style="fill:none"/>
-   <polyline points="21778,32911 21805,32911" style="fill:none"/>
-   <polyline points="22262,32911 22289,32911" style="fill:none"/>
-   <polyline points="22746,32911 22773,32911" style="fill:none"/>
-   <polyline points="23230,32911 23257,32911" style="fill:none"/>
-   <polyline points="23714,32911 23741,32911" style="fill:none"/>
-   <polyline points="24198,32911 24224,32911" style="fill:none"/>
-   <polyline points="24681,32911 24708,32911" style="fill:none"/>
-   <polyline points="25165,32911 25192,32911" style="fill:none"/>
-   <polyline points="25649,32911 25676,32911" style="fill:none"/>
-   <polyline points="26133,32911 26160,32911" style="fill:none"/>
-   <polyline points="26617,32911 26644,32911" style="fill:none"/>
-   <polyline points="27101,32911 27128,32911" style="fill:none"/>
-   <polyline points="27585,32911 27612,32911" style="fill:none"/>
-   <polyline points="28069,32911 28096,32911" style="fill:none"/>
-   <polyline points="28553,32911 28580,32911" style="fill:none"/>
-   <polyline points="29037,32911 29064,32911" style="fill:none"/>
-   <polyline points="29521,32911 29548,32911" style="fill:none"/>
-   <polyline points="30005,32911 30032,32911" style="fill:none"/>
-   <polyline points="30489,32911 30516,32911" style="fill:none"/>
-   <polyline points="30973,32911 31000,32911" style="fill:none"/>
-   <polyline points="7242,7114 7242,20344" style="fill:none"/>
-   <polyline points="7242,20344 4155,-28876" style="fill:none"/>
-   <polyline points="4156,36660 12534,36660" style="fill:none"/>
-   <polyline points="30614,32911 29070,36660" style="fill:none"/>
-   <polyline points="17825,36660 29070,36660" style="fill:none"/>
-   <polyline points="21794,7114 22897,13288" style="fill:none"/>
-   <polyline points="22897,13288 22193,13307 21577,13362 21044,13448 20587,13558 20201,13688 19880,13831 19617,13982 19408,14136 19245,14287 19123,14430 19037,14560 18980,14670 18947,14756 18931,14811 18928,14831 18946,14894 18990,15048 19044,15238 19093,15410 19121,15509 19114,15482 19054,15274 18928,14831 19369,16375" style="fill:none"/>
-   <polyline points="19369,16375 19205,17257 19086,18109 19010,18929 18975,19718 18977,20477 19016,21206 19089,21905 19194,22576 19328,23218 19490,23833 19678,24419 19888,24979 20119,25512 20370,26020 20637,26501 20918,26957 21212,27389 21516,27796 21828,28180 22146,28541 22467,28878 22791,29193 23113,29487 23433,29759 23748,30010 24055,30240 24354,30451 24641,30642 24914,30814 25172,30967 25411,31102 25631,31220 25828,31320 26001,31404 26147,31471 26265,31523 26352,31559 26405,31580 26424,31588 26541,31625 26859,31725 27329,31873 27898,32053 28519,-33287 29139,-33091 29708,-32911 30178,-32763 30496,-32663 30614,-32625" style="fill:none"/>
-   <polyline points="14518,32911 12534,36660" style="fill:none"/>
-   <polyline points="17605,36660 14518,32691" style="fill:none"/>
-   <polyline points="10990,19021 18487,17037" style="fill:none"/>
+   <polyline points="13522,3096 13522,3122" style="fill:none"/>
+   <polyline points="13522,3579 13522,3606" style="fill:none"/>
+   <polyline points="13522,4063 13522,4090" style="fill:none"/>
+   <polyline points="13522,4547 13522,4574" style="fill:none"/>
+   <polyline points="13522,5031 13522,5058" style="fill:none"/>
+   <polyline points="13522,5515 13522,5542" style="fill:none"/>
+   <polyline points="13522,5999 13522,6026" style="fill:none"/>
+   <polyline points="13522,6483 13522,6510" style="fill:none"/>
+   <polyline points="13522,6967 13522,6994" style="fill:none"/>
+   <polyline points="13522,7451 13522,7478" style="fill:none"/>
+   <polyline points="13522,7935 13522,7962" style="fill:none"/>
+   <polyline points="13522,8419 13522,8446" style="fill:none"/>
+   <polyline points="13522,8903 13522,8930" style="fill:none"/>
+   <polyline points="13522,9387 13522,9414" style="fill:none"/>
+   <polyline points="13522,9871 13522,9898" style="fill:none"/>
+   <polyline points="13522,10355 13522,10382" style="fill:none"/>
+   <polyline points="13522,10839 13522,10866" style="fill:none"/>
+   <polyline points="13522,11323 13522,11350" style="fill:none"/>
+   <polyline points="13522,11807 13522,11834" style="fill:none"/>
+   <polyline points="13522,12291 13522,12318" style="fill:none"/>
+   <polyline points="13522,12775 13522,12801" style="fill:none"/>
+   <polyline points="13522,13258 13522,13285" style="fill:none"/>
+   <polyline points="13522,13742 13522,13769" style="fill:none"/>
+   <polyline points="13522,14226 13522,14253" style="fill:none"/>
+   <polyline points="13522,14710 13522,14737" style="fill:none"/>
+   <polyline points="13522,15194 13522,15221" style="fill:none"/>
+   <polyline points="13522,15678 13522,15705" style="fill:none"/>
+   <polyline points="13522,16162 13522,16189" style="fill:none"/>
+   <polyline points="13522,16646 13522,16673" style="fill:none"/>
+   <polyline points="13522,17130 13522,17157" style="fill:none"/>
+   <polyline points="13522,17614 13522,17641" style="fill:none"/>
+   <polyline points="13522,18098 13522,18125" style="fill:none"/>
+   <polyline points="13522,18582 13522,18609" style="fill:none"/>
+   <polyline points="13522,19066 13522,19093" style="fill:none"/>
+   <polyline points="13522,19550 13522,19577" style="fill:none"/>
+   <polyline points="13522,20034 13522,20061" style="fill:none"/>
+   <polyline points="13522,20518 13522,20545" style="fill:none"/>
+   <polyline points="13522,21002 13522,21029" style="fill:none"/>
+   <polyline points="13522,21486 13522,21513" style="fill:none"/>
+   <polyline points="13522,21970 13522,21997" style="fill:none"/>
+   <polyline points="13522,22454 13522,22480" style="fill:none"/>
+   <polyline points="13522,22937 13522,22964" style="fill:none"/>
+   <polyline points="13522,23421 13522,23448" style="fill:none"/>
+   <polyline points="13522,23905 13522,23932" style="fill:none"/>
+   <polyline points="13522,24389 13522,24416" style="fill:none"/>
+   <polyline points="13522,24873 13522,24900" style="fill:none"/>
+   <polyline points="13522,25357 13522,25384" style="fill:none"/>
+   <polyline points="13522,25841 13522,25868" style="fill:none"/>
+   <polyline points="13522,26325 13522,26352" style="fill:none"/>
+   <polyline points="13522,26809 13522,26836" style="fill:none"/>
+   <polyline points="13522,27293 13522,27320" style="fill:none"/>
+   <polyline points="13522,27777 13522,27804" style="fill:none"/>
+   <polyline points="13522,28261 13522,28288" style="fill:none"/>
+   <polyline points="13522,28745 13522,28772" style="fill:none"/>
+   <polyline points="13522,29229 13522,29256" style="fill:none"/>
+   <polyline points="13522,29713 13522,29740" style="fill:none"/>
+   <polyline points="13522,30197 13522,30224" style="fill:none"/>
+   <polyline points="13522,30681 13522,30708" style="fill:none"/>
+   <polyline points="13522,31165 13522,31192" style="fill:none"/>
+   <polyline points="13522,31649 13522,31676" style="fill:none"/>
+   <polyline points="13522,32133 13522,32159" style="fill:none"/>
+   <polyline points="13522,32616 13522,32643" style="fill:none"/>
+   <polyline points="13522,33100 13522,33127" style="fill:none"/>
+   <polyline points="13522,33584 13522,33611" style="fill:none"/>
+   <polyline points="13522,34068 13522,34095" style="fill:none"/>
+   <polyline points="13522,34552 13522,34579" style="fill:none"/>
+   <polyline points="13522,35036 13522,35063" style="fill:none"/>
+   <polyline points="13522,35520 13522,35547" style="fill:none"/>
+   <polyline points="13522,36004 13522,36031" style="fill:none"/>
+   <polyline points="13522,36488 13522,36515" style="fill:none"/>
+   <polyline points="13522,36972 13522,36999" style="fill:none"/>
+   <polyline points="6246,7642 6272,7642" style="fill:none"/>
+   <polyline points="6729,7642 6756,7642" style="fill:none"/>
+   <polyline points="7213,7642 7240,7642" style="fill:none"/>
+   <polyline points="7697,7642 7724,7642" style="fill:none"/>
+   <polyline points="8181,7642 8208,7642" style="fill:none"/>
+   <polyline points="8665,7642 8692,7642" style="fill:none"/>
+   <polyline points="9149,7642 9176,7642" style="fill:none"/>
+   <polyline points="9633,7642 9660,7642" style="fill:none"/>
+   <polyline points="10117,7642 10144,7642" style="fill:none"/>
+   <polyline points="10601,7642 10628,7642" style="fill:none"/>
+   <polyline points="11085,7642 11112,7642" style="fill:none"/>
+   <polyline points="11569,7642 11596,7642" style="fill:none"/>
+   <polyline points="12053,7642 12080,7642" style="fill:none"/>
+   <polyline points="12537,7642 12564,7642" style="fill:none"/>
+   <polyline points="13021,7642 13048,7642" style="fill:none"/>
+   <polyline points="13505,7642 13523,7642" style="fill:none"/>
+   <polyline points="6247,20872 6273,20872" style="fill:none"/>
+   <polyline points="6730,20872 6757,20872" style="fill:none"/>
+   <polyline points="7214,20872 7241,20872" style="fill:none"/>
+   <polyline points="7698,20872 7725,20872" style="fill:none"/>
+   <polyline points="8182,20872 8209,20872" style="fill:none"/>
+   <polyline points="8666,20872 8693,20872" style="fill:none"/>
+   <polyline points="9150,20872 9177,20872" style="fill:none"/>
+   <polyline points="9634,20872 9661,20872" style="fill:none"/>
+   <polyline points="10118,20872 10145,20872" style="fill:none"/>
+   <polyline points="10602,20872 10629,20872" style="fill:none"/>
+   <polyline points="11086,20872 11113,20872" style="fill:none"/>
+   <polyline points="11570,20872 11597,20872" style="fill:none"/>
+   <polyline points="12054,20872 12081,20872" style="fill:none"/>
+   <polyline points="12538,20872 12565,20872" style="fill:none"/>
+   <polyline points="13022,20872 13049,20872" style="fill:none"/>
+   <polyline points="13506,20872 13524,20872" style="fill:none"/>
+   <polyline points="3159,37188 3185,37188" style="fill:none"/>
+   <polyline points="3642,37188 3669,37188" style="fill:none"/>
+   <polyline points="4126,37188 4153,37188" style="fill:none"/>
+   <polyline points="4610,37188 4637,37188" style="fill:none"/>
+   <polyline points="5094,37188 5121,37188" style="fill:none"/>
+   <polyline points="5578,37188 5605,37188" style="fill:none"/>
+   <polyline points="6062,37188 6089,37188" style="fill:none"/>
+   <polyline points="6546,37188 6573,37188" style="fill:none"/>
+   <polyline points="7030,37188 7057,37188" style="fill:none"/>
+   <polyline points="7514,37188 7541,37188" style="fill:none"/>
+   <polyline points="7998,37188 8025,37188" style="fill:none"/>
+   <polyline points="8482,37188 8509,37188" style="fill:none"/>
+   <polyline points="8966,37188 8993,37188" style="fill:none"/>
+   <polyline points="9450,37188 9477,37188" style="fill:none"/>
+   <polyline points="9934,37188 9961,37188" style="fill:none"/>
+   <polyline points="10418,37188 10445,37188" style="fill:none"/>
+   <polyline points="10902,37188 10929,37188" style="fill:none"/>
+   <polyline points="11386,37188 11413,37188" style="fill:none"/>
+   <polyline points="11870,37188 11897,37188" style="fill:none"/>
+   <polyline points="12354,37188 12381,37188" style="fill:none"/>
+   <polyline points="12838,37188 12864,37188" style="fill:none"/>
+   <polyline points="13321,37188 13348,37188" style="fill:none"/>
+   <polyline points="13522,37188 13548,37188" style="fill:none"/>
+   <polyline points="14005,37188 14032,37188" style="fill:none"/>
+   <polyline points="14489,37188 14516,37188" style="fill:none"/>
+   <polyline points="14973,37188 15000,37188" style="fill:none"/>
+   <polyline points="15457,37188 15484,37188" style="fill:none"/>
+   <polyline points="15941,37188 15968,37188" style="fill:none"/>
+   <polyline points="16425,37188 16452,37188" style="fill:none"/>
+   <polyline points="16909,37188 16936,37188" style="fill:none"/>
+   <polyline points="17393,37188 17420,37188" style="fill:none"/>
+   <polyline points="17877,37188 17904,37188" style="fill:none"/>
+   <polyline points="18361,37188 18388,37188" style="fill:none"/>
+   <polyline points="18845,37188 18872,37188" style="fill:none"/>
+   <polyline points="19329,37188 19356,37188" style="fill:none"/>
+   <polyline points="19813,37188 19840,37188" style="fill:none"/>
+   <polyline points="20297,37188 20324,37188" style="fill:none"/>
+   <polyline points="20781,37188 20808,37188" style="fill:none"/>
+   <polyline points="21265,37188 21292,37188" style="fill:none"/>
+   <polyline points="21749,37188 21776,37188" style="fill:none"/>
+   <polyline points="22233,37188 22260,37188" style="fill:none"/>
+   <polyline points="22717,37188 22744,37188" style="fill:none"/>
+   <polyline points="23201,37188 23227,37188" style="fill:none"/>
+   <polyline points="23684,37188 23711,37188" style="fill:none"/>
+   <polyline points="24168,37188 24195,37188" style="fill:none"/>
+   <polyline points="24652,37188 24679,37188" style="fill:none"/>
+   <polyline points="25136,37188 25163,37188" style="fill:none"/>
+   <polyline points="25620,37188 25647,37188" style="fill:none"/>
+   <polyline points="26104,37188 26131,37188" style="fill:none"/>
+   <polyline points="26588,37188 26615,37188" style="fill:none"/>
+   <polyline points="27072,37188 27099,37188" style="fill:none"/>
+   <polyline points="27556,37188 27583,37188" style="fill:none"/>
+   <polyline points="13523,7642 13549,7642" style="fill:none"/>
+   <polyline points="14006,7642 14033,7642" style="fill:none"/>
+   <polyline points="14490,7642 14517,7642" style="fill:none"/>
+   <polyline points="14974,7642 15001,7642" style="fill:none"/>
+   <polyline points="15458,7642 15485,7642" style="fill:none"/>
+   <polyline points="15942,7642 15969,7642" style="fill:none"/>
+   <polyline points="16426,7642 16453,7642" style="fill:none"/>
+   <polyline points="16910,7642 16937,7642" style="fill:none"/>
+   <polyline points="17394,7642 17421,7642" style="fill:none"/>
+   <polyline points="17878,7642 17905,7642" style="fill:none"/>
+   <polyline points="18362,7642 18389,7642" style="fill:none"/>
+   <polyline points="18846,7642 18873,7642" style="fill:none"/>
+   <polyline points="19330,7642 19357,7642" style="fill:none"/>
+   <polyline points="19814,7642 19841,7642" style="fill:none"/>
+   <polyline points="20298,7642 20325,7642" style="fill:none"/>
+   <polyline points="20782,7642 20800,7642" style="fill:none"/>
+   <polyline points="13523,13816 13549,13816" style="fill:none"/>
+   <polyline points="14006,13816 14033,13816" style="fill:none"/>
+   <polyline points="14490,13816 14517,13816" style="fill:none"/>
+   <polyline points="14974,13816 15001,13816" style="fill:none"/>
+   <polyline points="15458,13816 15485,13816" style="fill:none"/>
+   <polyline points="15942,13816 15969,13816" style="fill:none"/>
+   <polyline points="16426,13816 16453,13816" style="fill:none"/>
+   <polyline points="16910,13816 16937,13816" style="fill:none"/>
+   <polyline points="17394,13816 17421,13816" style="fill:none"/>
+   <polyline points="17878,13816 17905,13816" style="fill:none"/>
+   <polyline points="18362,13816 18389,13816" style="fill:none"/>
+   <polyline points="18846,13816 18873,13816" style="fill:none"/>
+   <polyline points="19330,13816 19357,13816" style="fill:none"/>
+   <polyline points="19814,13816 19841,13816" style="fill:none"/>
+   <polyline points="20298,13816 20325,13816" style="fill:none"/>
+   <polyline points="20782,13816 20809,13816" style="fill:none"/>
+   <polyline points="21266,13816 21293,13816" style="fill:none"/>
+   <polyline points="21750,13816 21777,13816" style="fill:none"/>
+   <polyline points="13522,15359 13548,15359" style="fill:none"/>
+   <polyline points="14005,15359 14032,15359" style="fill:none"/>
+   <polyline points="14489,15359 14516,15359" style="fill:none"/>
+   <polyline points="14973,15359 15000,15359" style="fill:none"/>
+   <polyline points="15457,15359 15484,15359" style="fill:none"/>
+   <polyline points="15941,15359 15968,15359" style="fill:none"/>
+   <polyline points="16425,15359 16452,15359" style="fill:none"/>
+   <polyline points="16909,15359 16936,15359" style="fill:none"/>
+   <polyline points="17393,15359 17420,15359" style="fill:none"/>
+   <polyline points="17877,15359 17904,15359" style="fill:none"/>
+   <polyline points="13523,16903 13549,16903" style="fill:none"/>
+   <polyline points="14006,16903 14033,16903" style="fill:none"/>
+   <polyline points="14490,16903 14517,16903" style="fill:none"/>
+   <polyline points="14974,16903 15001,16903" style="fill:none"/>
+   <polyline points="15458,16903 15485,16903" style="fill:none"/>
+   <polyline points="15942,16903 15969,16903" style="fill:none"/>
+   <polyline points="16426,16903 16453,16903" style="fill:none"/>
+   <polyline points="16910,16903 16937,16903" style="fill:none"/>
+   <polyline points="17394,16903 17421,16903" style="fill:none"/>
+   <polyline points="17878,16903 17905,16903" style="fill:none"/>
+   <polyline points="18362,16903 18373,16903" style="fill:none"/>
+   <polyline points="13523,23076 13549,23076" style="fill:none"/>
+   <polyline points="14006,23076 14033,23076" style="fill:none"/>
+   <polyline points="14490,23076 14517,23076" style="fill:none"/>
+   <polyline points="14974,23076 15001,23076" style="fill:none"/>
+   <polyline points="15458,23076 15485,23076" style="fill:none"/>
+   <polyline points="15942,23076 15969,23076" style="fill:none"/>
+   <polyline points="16426,23076 16453,23076" style="fill:none"/>
+   <polyline points="16910,23076 16937,23076" style="fill:none"/>
+   <polyline points="17394,23076 17421,23076" style="fill:none"/>
+   <polyline points="17878,23076 17905,23076" style="fill:none"/>
+   <polyline points="13523,28589 13549,28589" style="fill:none"/>
+   <polyline points="14006,28589 14033,28589" style="fill:none"/>
+   <polyline points="14490,28589 14517,28589" style="fill:none"/>
+   <polyline points="14974,28589 15001,28589" style="fill:none"/>
+   <polyline points="15458,28589 15485,28589" style="fill:none"/>
+   <polyline points="15942,28589 15969,28589" style="fill:none"/>
+   <polyline points="16426,28589 16453,28589" style="fill:none"/>
+   <polyline points="16910,28589 16937,28589" style="fill:none"/>
+   <polyline points="17394,28589 17421,28589" style="fill:none"/>
+   <polyline points="17878,28589 17905,28589" style="fill:none"/>
+   <polyline points="18362,28589 18389,28589" style="fill:none"/>
+   <polyline points="18846,28589 18873,28589" style="fill:none"/>
+   <polyline points="19330,28589 19357,28589" style="fill:none"/>
+   <polyline points="19814,28589 19841,28589" style="fill:none"/>
+   <polyline points="20298,28589 20325,28589" style="fill:none"/>
+   <polyline points="20782,28589 20800,28589" style="fill:none"/>
+   <polyline points="13523,33439 13549,33439" style="fill:none"/>
+   <polyline points="14006,33439 14033,33439" style="fill:none"/>
+   <polyline points="14490,33439 14517,33439" style="fill:none"/>
+   <polyline points="14974,33439 15001,33439" style="fill:none"/>
+   <polyline points="15458,33439 15485,33439" style="fill:none"/>
+   <polyline points="15942,33439 15969,33439" style="fill:none"/>
+   <polyline points="16426,33439 16453,33439" style="fill:none"/>
+   <polyline points="16910,33439 16937,33439" style="fill:none"/>
+   <polyline points="17394,33439 17421,33439" style="fill:none"/>
+   <polyline points="17878,33439 17905,33439" style="fill:none"/>
+   <polyline points="18362,33439 18389,33439" style="fill:none"/>
+   <polyline points="18846,33439 18873,33439" style="fill:none"/>
+   <polyline points="19330,33439 19357,33439" style="fill:none"/>
+   <polyline points="19814,33439 19841,33439" style="fill:none"/>
+   <polyline points="20298,33439 20325,33439" style="fill:none"/>
+   <polyline points="20782,33439 20809,33439" style="fill:none"/>
+   <polyline points="21266,33439 21293,33439" style="fill:none"/>
+   <polyline points="21750,33439 21777,33439" style="fill:none"/>
+   <polyline points="22234,33439 22261,33439" style="fill:none"/>
+   <polyline points="22718,33439 22745,33439" style="fill:none"/>
+   <polyline points="23202,33439 23228,33439" style="fill:none"/>
+   <polyline points="23685,33439 23712,33439" style="fill:none"/>
+   <polyline points="24169,33439 24196,33439" style="fill:none"/>
+   <polyline points="24653,33439 24680,33439" style="fill:none"/>
+   <polyline points="25137,33439 25164,33439" style="fill:none"/>
+   <polyline points="25621,33439 25648,33439" style="fill:none"/>
+   <polyline points="26105,33439 26132,33439" style="fill:none"/>
+   <polyline points="26589,33439 26616,33439" style="fill:none"/>
+   <polyline points="27073,33439 27100,33439" style="fill:none"/>
+   <polyline points="27557,33439 27584,33439" style="fill:none"/>
+   <polyline points="28041,33439 28068,33439" style="fill:none"/>
+   <polyline points="28525,33439 28552,33439" style="fill:none"/>
+   <polyline points="29009,33439 29036,33439" style="fill:none"/>
+   <polyline points="29493,33439 29520,33439" style="fill:none"/>
+   <polyline points="29977,33439 30004,33439" style="fill:none"/>
+   <polyline points="6246,7642 6246,20872" style="fill:none"/>
+   <polyline points="6246,20872 3159,-28348" style="fill:none"/>
+   <polyline points="3160,37188 11538,37188" style="fill:none"/>
+   <polyline points="29618,33439 28074,37188" style="fill:none"/>
+   <polyline points="16829,37188 28074,37188" style="fill:none"/>
+   <polyline points="20798,7642 21901,13816" style="fill:none"/>
+   <polyline points="21901,13816 21197,13835 20581,13890 20048,13976 19591,14086 19205,14216 18884,14359 18621,14510 18412,14664 18249,14815 18127,14958 18041,15088 17984,15198 17951,15284 17935,15339 17932,15359 17950,15422 17994,15576 18048,15766 18097,15938 18125,16037 18118,16010 18058,15802 17932,15359 18373,16903" style="fill:none"/>
+   <polyline points="18373,16903 18209,17785 18090,18637 18014,19457 17979,20246 17981,21005 18020,21734 18093,22433 18198,23104 18332,23746 18494,24361 18682,24947 18892,25507 19123,26040 19374,26548 19641,27029 19922,27485 20216,27917 20520,28324 20832,28708 21150,29069 21471,29406 21795,29721 22117,30015 22437,30287 22752,30538 23059,30768 23358,30979 23645,31170 23918,31342 24176,31495 24415,31630 24635,31748 24832,31848 25005,31932 25151,31999 25269,32051 25356,32087 25409,32108 25428,32116 25545,-33383 25863,-33283 26333,-33135 26902,-32955 27523,-32759 28143,-32563 28712,-32383 29182,-32235 29500,-32135 29618,-32097" style="fill:none"/>
+   <polyline points="9994,19549 17491,17565" style="fill:none"/>
   </g>
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <polygon points="3053,1603 6581,1603 6581,3145 3053,3145 3053,1603"/>
+   <polygon points="2057,2131 5585,2131 5585,3673 2057,3673 2057,2131"/>
   </g>
   <g style="stroke:rgb(0,0,0);fill:none">
-   <polyline points="4817,3145 3053,3145 3053,1603 6581,1603 6581,3145 4817,3145" style="fill:none"/>
-   <polyline points="4817,2925 4838,2940" style="fill:none"/>
-   <polyline points="5206,3212 5228,3228" style="fill:none"/>
-   <polyline points="5596,3499 5617,3515" style="fill:none"/>
-   <polyline points="5985,3786 6007,3802" style="fill:none"/>
-   <polyline points="6375,4073 6397,4089" style="fill:none"/>
-   <polyline points="6764,4360 6786,4376" style="fill:none"/>
-   <polyline points="7154,4647 7176,4663" style="fill:none"/>
-   <polyline points="7544,4934 7565,4950" style="fill:none"/>
-   <polyline points="7933,5221 7955,5237" style="fill:none"/>
-   <polyline points="8323,5508 8345,5524" style="fill:none"/>
-   <polyline points="8712,5796 8734,5811" style="fill:none"/>
+   <polyline points="3821,3673 2057,3673 2057,2131 5585,2131 5585,3673 3821,3673" style="fill:none"/>
+   <polyline points="3821,3453 3842,3468" style="fill:none"/>
+   <polyline points="4210,3740 4232,3756" style="fill:none"/>
+   <polyline points="4600,4027 4621,4043" style="fill:none"/>
+   <polyline points="4989,4314 5011,4330" style="fill:none"/>
+   <polyline points="5379,4601 5401,4617" style="fill:none"/>
+   <polyline points="5768,4888 5790,4904" style="fill:none"/>
+   <polyline points="6158,5175 6180,5191" style="fill:none"/>
+   <polyline points="6548,5462 6569,5478" style="fill:none"/>
+   <polyline points="6937,5749 6959,5765" style="fill:none"/>
+   <polyline points="7327,6036 7349,6052" style="fill:none"/>
+   <polyline points="7716,6324 7738,6339" style="fill:none"/>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <g transform="translate(10706,18609) rotate(-18.5) translate(-10706,-18609)">
-    <text x="10706" y="18609">Attach wing here
+   <g transform="translate(9710,19137) rotate(-18.5) translate(-9710,-19137)">
+    <text x="9710" y="19137">Attach wing here
     </text>
    </g>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <text x="5265" y="34105">The side part, you need
+   <text x="4260" y="34634">The side part, you need
    </text>
-   <text x="5265" y="34793">two of them for the whole  tux
+   <text x="4260" y="35322">two of them for the whole  tux
    </text>
-   <text x="5265" y="35481">Use black fabric
+   <text x="4260" y="36010">Use black fabric
    </text>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <g transform="translate(19801,22863) rotate(-299.2) translate(-19801,-22863)">
-    <text x="19801" y="22863">The bib goes here
+   <g transform="translate(18805,23391) rotate(-299.2) translate(-18805,-23391)">
+    <text x="18805" y="23391">The bib goes here
     </text>
    </g>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <g transform="translate(23647,37233) rotate(-180) translate(-23647,-37233)">
-    <text x="23647" y="37233">Derrier goes here
+   <g transform="translate(22651,37761) rotate(-180) translate(-22651,-37761)">
+    <text x="22651" y="37761">Derrier goes here
     </text>
    </g>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <g transform="translate(16537,33758) rotate(-301.7) translate(-16537,-33758)">
-    <text x="16537" y="33758">Wedge here
+   <g transform="translate(15541,34286) rotate(-301.7) translate(-15541,-34286)">
+    <text x="15541" y="34286">Wedge here
     </text>
    </g>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <g transform="translate(10347,4468) rotate(-316.5) translate(-10347,-4468)">
-    <text x="10347" y="4468">Wedge here
+   <g transform="translate(9351,4996) rotate(-316.5) translate(-9351,-4996)">
+    <text x="9351" y="4996">Wedge here
     </text>
    </g>
   </g>
   <g style="stroke:none;fill:rgb(230,230,230)">
-   <polygon points="20108,11143 19748,11159 19394,11073 19052,10892 18733,10627 18444,10285 18197,9876 17998,9409 17859,8894 17789,8364 17793,7856 17864,7384 17999,6957 18192,6589 18438,6291 18733,6075 19071,5953 19430,5936 19784,6022 20126,6203 20445,6468 20733,6810 20981,7219 21179,7686 21319,8202 21388,8731 21384,9239 21313,9711 21178,10138 20986,10506 20740,10804 20445,11020 20108,11143"/>
+   <polygon points="19112,11671 18752,11687 18398,11601 18056,11420 17737,11155 17448,10813 17201,10404 17002,9937 16863,9422 16793,8892 16797,8384 16868,7912 17003,7485 17196,7117 17442,6819 17737,6603 18075,6481 18434,6464 18788,6550 19130,6731 19449,6996 19737,7338 19985,7747 20183,8214 20323,8730 20392,9259 20388,9767 20317,10239 20182,10666 19990,11034 19744,11332 19449,11548 19112,11671"/>
   </g>
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <polygon points="20171,10905 19888,10910 19610,10822 19346,10649 19105,10401 18896,10088 18729,9719 18614,9304 18561,8876 18573,8471 18645,8102 18773,7780 18950,7519 19173,7330 19436,7228 19718,7221 19996,7310 20260,7483 20501,7731 20710,8044 20877,8413 20993,8829 21045,9256 21033,9661 20961,10030 20833,10352 20656,10613 20433,10801 20171,10905"/>
+   <polygon points="19175,11433 18892,11438 18614,11350 18350,11177 18109,10929 17900,10616 17733,10247 17618,9832 17565,9404 17577,8999 17649,8630 17777,8308 17954,8047 18177,7858 18440,7756 18722,7749 19000,7838 19264,8011 19505,8259 19714,8572 19881,8941 19997,9357 20049,9784 20037,10189 19965,10558 19837,10880 19660,11141 19437,11329 19175,11433"/>
   </g>
   <g style="stroke:rgb(0,0,0);fill:none">
-   <polyline points="20171,10905 19888,10910 19610,10822 19346,10649 19105,10401 18896,10088 18729,9719 18614,9304 18561,8876 18573,8471 18645,8102 18773,7780 18950,7519 19173,7330 19436,7228 19718,7221 19996,7310 20260,7483 20501,7731 20710,8044 20877,8413 20993,8829 21045,9256 21033,9661 20961,10030 20833,10352 20656,10613 20433,10801 20171,10905" style="fill:none"/>
+   <polyline points="19175,11433 18892,11438 18614,11350 18350,11177 18109,10929 17900,10616 17733,10247 17618,9832 17565,9404 17577,8999 17649,8630 17777,8308 17954,8047 18177,7858 18440,7756 18722,7749 19000,7838 19264,8011 19505,8259 19714,8572 19881,8941 19997,9357 20049,9784 20037,10189 19965,10558 19837,10880 19660,11141 19437,11329 19175,11433" style="fill:none"/>
   </g>
   <g style="stroke:none;fill:rgb(230,230,230)">
-   <polygon points="19978,8244 19803,8243 19647,8178 19526,8059 19459,7898 19459,7723 19525,7567 19643,7447 19805,7380 19980,7380 20136,7445 20256,7564 20324,7726 20323,7900 20258,8056 20139,8176 19978,8244"/>
+   <polygon points="18982,8772 18807,8771 18651,8706 18530,8587 18463,8426 18463,8251 18529,8095 18647,7975 18809,7908 18984,7908 19140,7973 19260,8092 19328,8254 19327,8428 19262,8584 19143,8704 18982,8772"/>
   </g>
   <g style="stroke:rgb(0,0,0);fill:none">
-   <polyline points="19978,8244 19803,8243 19647,8178 19526,8059 19459,7898 19459,7723 19525,7567 19643,7447 19805,7380 19980,7380 20136,7445 20256,7564 20324,7726 20323,7900 20258,8056 20139,8176 19978,8244" style="fill:none"/>
+   <polyline points="18982,8772 18807,8771 18651,8706 18530,8587 18463,8426 18463,8251 18529,8095 18647,7975 18809,7908 18984,7908 19140,7973 19260,8092 19328,8254 19327,8428 19262,8584 19143,8704 18982,8772" style="fill:none"/>
   </g>
  </g>
  <g style="font-family:Nimbus Roman No9 L;font-size:564;font-weight:400">
   <g style="stroke:none;fill:rgb(0,0,0)">
-   <text x="14949" y="10848">Eye patch here
+   <text x="13970" y="11377">Eye patch here
    </text>
-   <text x="20690" y="32332">Foot goes here
+   <text x="19685" y="32861">Foot goes here
    </text>
   </g>
   <g style="stroke:rgb(0,0,0);fill:none">
-   <polyline points="14447,14182 14420,14180" style="fill:none"/>
-   <polyline points="13963,14158 13936,14157" style="fill:none"/>
-   <polyline points="13482,14113 13455,14109" style="fill:none"/>
-   <polyline points="13003,14044 12985,14042" style="fill:none"/>
-   <polyline points="12985,14042 12976,14039" style="fill:none"/>
-   <polyline points="12532,13931 12506,13924" style="fill:none"/>
-   <polyline points="12069,13795 12043,13786" style="fill:none"/>
-   <polyline points="11612,13635 11587,13624" style="fill:none"/>
-   <polyline points="11172,13433 11147,13422" style="fill:none"/>
-   <polyline points="10744,13209 10720,13195" style="fill:none"/>
-   <polyline points="10328,12961 10306,12945" style="fill:none"/>
-   <polyline points="9934,12681 9912,12665" style="fill:none"/>
-   <polyline points="9560,12374 9540,12356" style="fill:none"/>
-   <polyline points="9204,12046 9186,12027" style="fill:none"/>
-   <polyline points="8870,11697 8852,11678" style="fill:none"/>
-   <polyline points="8852,11678 8851,11677" style="fill:none"/>
-   <polyline points="8568,11318 8552,11297" style="fill:none"/>
-   <polyline points="8290,10923 8276,10900" style="fill:none"/>
-   <polyline points="8036,10511 8024,10487" style="fill:none"/>
-   <polyline points="7817,10080 7804,10056" style="fill:none"/>
-   <polyline points="7632,9633 7622,9608" style="fill:none"/>
-   <polyline points="7475,9176 7468,9150" style="fill:none"/>
-   <polyline points="7349,8709 7344,8689" style="fill:none"/>
-   <polyline points="7344,8689 7343,8683" style="fill:none"/>
-   <polyline points="7270,8232 7266,8205" style="fill:none"/>
-   <polyline points="7220,7751 7219,7724" style="fill:none"/>
-   <polyline points="7198,7268 7200,7241" style="fill:none"/>
-   <polyline points="7224,6784 7225,6757" style="fill:none"/>
-   <polyline points="7281,6304 7285,6278" style="fill:none"/>
-   <polyline points="7367,5829 7374,5803" style="fill:none"/>
-   <polyline points="7493,5361 7500,5335" style="fill:none"/>
-   <polyline points="7657,4906 7666,4881" style="fill:none"/>
-   <polyline points="7848,4462 7860,4438" style="fill:none"/>
-   <polyline points="8068,4031 8072,4024" style="fill:none"/>
-   <polyline points="8072,4024 8081,4008" style="fill:none"/>
-   <polyline points="8327,3623 8342,3600" style="fill:none"/>
-   <polyline points="8611,3232 8628,3210" style="fill:none"/>
-   <polyline points="8918,2857 8936,2838" style="fill:none"/>
-   <polyline points="9252,2508 9271,2488" style="fill:none"/>
-   <polyline points="9612,2185 9633,2167" style="fill:none"/>
-   <polyline points="9990,1883 10012,1868" style="fill:none"/>
-   <polyline points="10385,1603 10393,1598" style="fill:none"/>
-   <polyline points="10393,1598 10407,1589" style="fill:none"/>
-   <polyline points="10804,1361 10827,1348" style="fill:none"/>
-   <polyline points="11234,1142 11259,1131" style="fill:none"/>
-   <polyline points="11677,945 11702,937" style="fill:none"/>
-   <polyline points="12134,787 12159,778" style="fill:none"/>
-   <polyline points="12599,657 12626,650" style="fill:none"/>
-   <polyline points="13071,550 13098,546" style="fill:none"/>
-   <polyline points="13550,481 13577,477" style="fill:none"/>
-   <polyline points="14032,443 14059,442" style="fill:none"/>
-   <polyline points="14515,427 14542,428" style="fill:none"/>
-   <polyline points="14999,450 15026,451" style="fill:none"/>
-   <polyline points="15480,501 15506,505" style="fill:none"/>
-   <polyline points="15958,575 15984,581" style="fill:none"/>
-   <polyline points="16428,690 16454,696" style="fill:none"/>
-   <polyline points="16890,832 16915,841" style="fill:none"/>
-   <polyline points="17344,998 17368,1009" style="fill:none"/>
-   <polyline points="17784,1200 17808,1211" style="fill:none"/>
-   <polyline points="18209,1430 18232,1444" style="fill:none"/>
-   <polyline points="18621,1684 18643,1699" style="fill:none"/>
-   <polyline points="19015,1964 19037,1979" style="fill:none"/>
-   <polyline points="19385,2276 19405,2293" style="fill:none"/>
-   <polyline points="19736,2608 19755,2628" style="fill:none"/>
-   <polyline points="20067,2961 20084,2982" style="fill:none"/>
-   <polyline points="20367,3341 20384,3362" style="fill:none"/>
-   <polyline points="20639,3740 20654,3763" style="fill:none"/>
-   <polyline points="20887,4155 20900,4179" style="fill:none"/>
-   <polyline points="21107,4586 21119,4610" style="fill:none"/>
-   <polyline points="21285,5036 21295,5061" style="fill:none"/>
-   <polyline points="21435,5496 21442,5522" style="fill:none"/>
-   <polyline points="21556,5964 21561,5990" style="fill:none"/>
-   <polyline points="21633,6442 21638,6468" style="fill:none"/>
-   <polyline points="21676,6923 21677,6950" style="fill:none"/>
-   <polyline points="21691,7406 21689,7433" style="fill:none"/>
-   <polyline points="21665,7890 21663,7916" style="fill:none"/>
-   <polyline points="21600,8369 21596,8395" style="fill:none"/>
-   <polyline points="21507,8843 21500,8869" style="fill:none"/>
-   <polyline points="21381,9310 21374,9336" style="fill:none"/>
-   <polyline points="21210,9763 21200,9788" style="fill:none"/>
-   <polyline points="21012,10204 21000,10228" style="fill:none"/>
-   <polyline points="20788,10632 20773,10655" style="fill:none"/>
-   <polyline points="20527,11040 20512,11063" style="fill:none"/>
-   <polyline points="20238,11427 20221,11449" style="fill:none"/>
-   <polyline points="19926,11797 19907,11816" style="fill:none"/>
-   <polyline points="19592,12147 19573,12166" style="fill:none"/>
-   <polyline points="19227,12465 19206,12482" style="fill:none"/>
-   <polyline points="18845,12761 18823,12777" style="fill:none"/>
-   <polyline points="18447,13036 18424,13050" style="fill:none"/>
-   <polyline points="18028,13278 18005,13291" style="fill:none"/>
-   <polyline points="17594,13491 17570,13503" style="fill:none"/>
-   <polyline points="17150,13682 17124,13691" style="fill:none"/>
-   <polyline points="16692,13840 16667,13849" style="fill:none"/>
-   <polyline points="16225,13964 16199,13970" style="fill:none"/>
-   <polyline points="15752,14064 15725,14068" style="fill:none"/>
-   <polyline points="15273,14133 15246,14137" style="fill:none"/>
-   <polyline points="14790,14165 14763,14166" style="fill:none"/>
-   <polyline points="21643,13758 21616,13756" style="fill:none"/>
-   <polyline points="21159,13734 21132,13733" style="fill:none"/>
-   <polyline points="20678,13689 20651,13685" style="fill:none"/>
-   <polyline points="20199,13620 20181,13618" style="fill:none"/>
-   <polyline points="20181,13618 20172,13615" style="fill:none"/>
-   <polyline points="19728,13507 19702,13500" style="fill:none"/>
-   <polyline points="19265,13371 19239,13362" style="fill:none"/>
-   <polyline points="18808,13211 18783,13200" style="fill:none"/>
-   <polyline points="18368,13009 18343,12998" style="fill:none"/>
-   <polyline points="17940,12785 17916,12771" style="fill:none"/>
-   <polyline points="17524,12537 17502,12521" style="fill:none"/>
-   <polyline points="17130,12257 17108,12241" style="fill:none"/>
-   <polyline points="16756,11950 16736,11932" style="fill:none"/>
-   <polyline points="16400,11622 16382,11603" style="fill:none"/>
-   <polyline points="16066,11273 16048,11254" style="fill:none"/>
-   <polyline points="16048,11254 16047,11253" style="fill:none"/>
-   <polyline points="15764,10894 15748,10873" style="fill:none"/>
-   <polyline points="15486,10499 15472,10476" style="fill:none"/>
-   <polyline points="15232,10087 15220,10063" style="fill:none"/>
-   <polyline points="15013,9656 15000,9632" style="fill:none"/>
-   <polyline points="14828,9209 14818,9184" style="fill:none"/>
-   <polyline points="14671,8752 14664,8726" style="fill:none"/>
-   <polyline points="14545,8285 14540,8265" style="fill:none"/>
-   <polyline points="14540,8265 14539,8259" style="fill:none"/>
-   <polyline points="14466,7808 14462,7781" style="fill:none"/>
-   <polyline points="14416,7327 14415,7300" style="fill:none"/>
-   <polyline points="14394,6844 14396,6817" style="fill:none"/>
-   <polyline points="14420,6360 14421,6333" style="fill:none"/>
-   <polyline points="14477,5880 14481,5854" style="fill:none"/>
-   <polyline points="14563,5405 14570,5379" style="fill:none"/>
-   <polyline points="14689,4937 14696,4911" style="fill:none"/>
-   <polyline points="14853,4482 14862,4457" style="fill:none"/>
-   <polyline points="15044,4038 15056,4014" style="fill:none"/>
-   <polyline points="15264,3607 15268,3600" style="fill:none"/>
-   <polyline points="15268,3600 15277,3584" style="fill:none"/>
-   <polyline points="15523,3199 15538,3176" style="fill:none"/>
-   <polyline points="15807,2808 15824,2786" style="fill:none"/>
-   <polyline points="16114,2433 16132,2414" style="fill:none"/>
-   <polyline points="16448,2084 16467,2064" style="fill:none"/>
-   <polyline points="16808,1761 16829,1743" style="fill:none"/>
-   <polyline points="17186,1459 17208,1444" style="fill:none"/>
-   <polyline points="17581,1179 17589,1174" style="fill:none"/>
-   <polyline points="17589,1174 17603,1165" style="fill:none"/>
-   <polyline points="18000,937 18023,924" style="fill:none"/>
-   <polyline points="18430,718 18455,707" style="fill:none"/>
-   <polyline points="18873,521 18898,513" style="fill:none"/>
-   <polyline points="19330,363 19355,354" style="fill:none"/>
-   <polyline points="19795,233 19822,226" style="fill:none"/>
-   <polyline points="20267,126 20294,122" style="fill:none"/>
-   <polyline points="20746,57 20773,53" style="fill:none"/>
-   <polyline points="21228,19 21255,18" style="fill:none"/>
-   <polyline points="21711,3 21738,4" style="fill:none"/>
-   <polyline points="22195,26 22222,27" style="fill:none"/>
-   <polyline points="22676,77 22702,81" style="fill:none"/>
-   <polyline points="23154,151 23180,157" style="fill:none"/>
-   <polyline points="23624,266 23650,272" style="fill:none"/>
-   <polyline points="24086,408 24111,417" style="fill:none"/>
-   <polyline points="24540,574 24564,585" style="fill:none"/>
-   <polyline points="24980,776 25004,787" style="fill:none"/>
-   <polyline points="25405,1006 25428,1020" style="fill:none"/>
-   <polyline points="25817,1260 25839,1275" style="fill:none"/>
-   <polyline points="26211,1540 26233,1555" style="fill:none"/>
-   <polyline points="26581,1852 26601,1869" style="fill:none"/>
-   <polyline points="26932,2184 26951,2204" style="fill:none"/>
-   <polyline points="27263,2537 27280,2558" style="fill:none"/>
-   <polyline points="27563,2917 27580,2938" style="fill:none"/>
-   <polyline points="27835,3316 27850,3339" style="fill:none"/>
-   <polyline points="28083,3731 28096,3755" style="fill:none"/>
-   <polyline points="28303,4162 28315,4186" style="fill:none"/>
-   <polyline points="28481,4612 28491,4637" style="fill:none"/>
-   <polyline points="28631,5072 28638,5098" style="fill:none"/>
-   <polyline points="28752,5540 28757,5566" style="fill:none"/>
-   <polyline points="28829,6018 28834,6044" style="fill:none"/>
-   <polyline points="28872,6499 28873,6526" style="fill:none"/>
-   <polyline points="28887,6982 28885,7009" style="fill:none"/>
-   <polyline points="28861,7466 28859,7492" style="fill:none"/>
-   <polyline points="28796,7945 28792,7971" style="fill:none"/>
-   <polyline points="28703,8419 28696,8445" style="fill:none"/>
-   <polyline points="28577,8886 28570,8912" style="fill:none"/>
-   <polyline points="28406,9339 28396,9364" style="fill:none"/>
-   <polyline points="28208,9780 28196,9804" style="fill:none"/>
-   <polyline points="27984,10208 27969,10231" style="fill:none"/>
-   <polyline points="27723,10616 27708,10639" style="fill:none"/>
-   <polyline points="27434,11003 27417,11025" style="fill:none"/>
-   <polyline points="27122,11373 27103,11392" style="fill:none"/>
-   <polyline points="26788,11723 26769,11742" style="fill:none"/>
-   <polyline points="26423,12041 26402,12058" style="fill:none"/>
-   <polyline points="26041,12337 26019,12353" style="fill:none"/>
-   <polyline points="25643,12612 25620,12626" style="fill:none"/>
-   <polyline points="25224,12854 25201,12867" style="fill:none"/>
-   <polyline points="24790,13067 24766,13079" style="fill:none"/>
-   <polyline points="24346,13258 24320,13267" style="fill:none"/>
-   <polyline points="23888,13416 23863,13425" style="fill:none"/>
-   <polyline points="23421,13540 23395,13546" style="fill:none"/>
-   <polyline points="22948,13640 22921,13644" style="fill:none"/>
-   <polyline points="22469,13709 22442,13713" style="fill:none"/>
-   <polyline points="21986,13741 21959,13742" style="fill:none"/>
-   <polyline points="7250,13864 7223,13862" style="fill:none"/>
-   <polyline points="6766,13840 6739,13839" style="fill:none"/>
-   <polyline points="6285,13795 6258,13791" style="fill:none"/>
-   <polyline points="5806,13726 5788,13724" style="fill:none"/>
-   <polyline points="5788,13724 5779,13721" style="fill:none"/>
-   <polyline points="5335,13613 5309,13606" style="fill:none"/>
-   <polyline points="4872,13477 4846,13468" style="fill:none"/>
-   <polyline points="4415,13317 4390,13306" style="fill:none"/>
-   <polyline points="3975,13115 3950,13104" style="fill:none"/>
-   <polyline points="3547,12891 3523,12877" style="fill:none"/>
-   <polyline points="3131,12643 3109,12627" style="fill:none"/>
-   <polyline points="2737,12363 2715,12347" style="fill:none"/>
-   <polyline points="2363,12056 2343,12038" style="fill:none"/>
-   <polyline points="2007,11728 1989,11709" style="fill:none"/>
-   <polyline points="1673,11379 1655,11360" style="fill:none"/>
-   <polyline points="1655,11360 1654,11359" style="fill:none"/>
-   <polyline points="1371,11000 1355,10979" style="fill:none"/>
-   <polyline points="1093,10605 1079,10582" style="fill:none"/>
-   <polyline points="839,10193 827,10169" style="fill:none"/>
-   <polyline points="620,9762 607,9738" style="fill:none"/>
-   <polyline points="435,9315 425,9290" style="fill:none"/>
-   <polyline points="278,8858 271,8832" style="fill:none"/>
-   <polyline points="152,8391 147,8371" style="fill:none"/>
-   <polyline points="147,8371 146,8365" style="fill:none"/>
-   <polyline points="73,7914 69,7887" style="fill:none"/>
-   <polyline points="23,7433 22,7406" style="fill:none"/>
-   <polyline points="1,6950 3,6923" style="fill:none"/>
-   <polyline points="27,6466 28,6439" style="fill:none"/>
-   <polyline points="84,5986 88,5960" style="fill:none"/>
-   <polyline points="170,5511 177,5485" style="fill:none"/>
-   <polyline points="296,5043 303,5017" style="fill:none"/>
-   <polyline points="460,4588 469,4563" style="fill:none"/>
-   <polyline points="651,4144 663,4120" style="fill:none"/>
-   <polyline points="871,3713 875,3706" style="fill:none"/>
-   <polyline points="875,3706 884,3690" style="fill:none"/>
-   <polyline points="1130,3305 1145,3282" style="fill:none"/>
-   <polyline points="1414,2914 1431,2892" style="fill:none"/>
-   <polyline points="1721,2539 1739,2520" style="fill:none"/>
-   <polyline points="2055,2190 2074,2170" style="fill:none"/>
-   <polyline points="2415,1867 2436,1849" style="fill:none"/>
-   <polyline points="2793,1565 2815,1550" style="fill:none"/>
-   <polyline points="3188,1285 3196,1280" style="fill:none"/>
-   <polyline points="3196,1280 3210,1271" style="fill:none"/>
-   <polyline points="3607,1043 3630,1030" style="fill:none"/>
-   <polyline points="4037,824 4062,813" style="fill:none"/>
-   <polyline points="4480,627 4505,619" style="fill:none"/>
-   <polyline points="4937,469 4962,460" style="fill:none"/>
-   <polyline points="5402,339 5429,332" style="fill:none"/>
-   <polyline points="5874,232 5901,228" style="fill:none"/>
-   <polyline points="6353,163 6380,159" style="fill:none"/>
-   <polyline points="6835,125 6862,124" style="fill:none"/>
-   <polyline points="7318,109 7345,110" style="fill:none"/>
-   <polyline points="7802,132 7829,133" style="fill:none"/>
-   <polyline points="8283,183 8309,187" style="fill:none"/>
-   <polyline points="8761,257 8787,263" style="fill:none"/>
-   <polyline points="9231,372 9257,378" style="fill:none"/>
-   <polyline points="9693,514 9718,523" style="fill:none"/>
-   <polyline points="10147,680 10171,691" style="fill:none"/>
-   <polyline points="10587,882 10611,893" style="fill:none"/>
-   <polyline points="11012,1112 11035,1126" style="fill:none"/>
-   <polyline points="11424,1366 11446,1381" style="fill:none"/>
-   <polyline points="11818,1646 11840,1661" style="fill:none"/>
-   <polyline points="12188,1958 12208,1975" style="fill:none"/>
-   <polyline points="12539,2290 12558,2310" style="fill:none"/>
-   <polyline points="12870,2643 12887,2664" style="fill:none"/>
-   <polyline points="13170,3023 13187,3044" style="fill:none"/>
-   <polyline points="13442,3422 13457,3445" style="fill:none"/>
-   <polyline points="13690,3837 13703,3861" style="fill:none"/>
-   <polyline points="13910,4268 13922,4292" style="fill:none"/>
-   <polyline points="14088,4718 14098,4743" style="fill:none"/>
-   <polyline points="14238,5178 14245,5204" style="fill:none"/>
-   <polyline points="14359,5646 14364,5672" style="fill:none"/>
-   <polyline points="14436,6124 14441,6150" style="fill:none"/>
-   <polyline points="14479,6605 14480,6632" style="fill:none"/>
-   <polyline points="14494,7088 14492,7115" style="fill:none"/>
-   <polyline points="14468,7572 14466,7598" style="fill:none"/>
-   <polyline points="14403,8051 14399,8077" style="fill:none"/>
-   <polyline points="14310,8525 14303,8551" style="fill:none"/>
-   <polyline points="14184,8992 14177,9018" style="fill:none"/>
-   <polyline points="14013,9445 14003,9470" style="fill:none"/>
-   <polyline points="13815,9886 13803,9910" style="fill:none"/>
-   <polyline points="13591,10314 13576,10337" style="fill:none"/>
-   <polyline points="13330,10722 13315,10745" style="fill:none"/>
-   <polyline points="13041,11109 13024,11131" style="fill:none"/>
-   <polyline points="12729,11479 12710,11498" style="fill:none"/>
-   <polyline points="12395,11829 12376,11848" style="fill:none"/>
-   <polyline points="12030,12147 12009,12164" style="fill:none"/>
-   <polyline points="11648,12443 11626,12459" style="fill:none"/>
-   <polyline points="11250,12718 11227,12732" style="fill:none"/>
-   <polyline points="10831,12960 10808,12973" style="fill:none"/>
-   <polyline points="10397,13173 10373,13185" style="fill:none"/>
-   <polyline points="9953,13364 9927,13373" style="fill:none"/>
-   <polyline points="9495,13522 9470,13531" style="fill:none"/>
-   <polyline points="9028,13646 9002,13652" style="fill:none"/>
-   <polyline points="8555,13746 8528,13750" style="fill:none"/>
-   <polyline points="8076,13815 8049,13819" style="fill:none"/>
-   <polyline points="7593,13847 7566,13848" style="fill:none"/>
-   <polyline points="14499,6978 14499,6953 14499,6928 14499,6903 14499,6879 14529,6231 14619,5600 14765,4990 14965,4403 15216,3841 15515,3307 15859,2805 16246,2336 16673,1905 17137,1512 17636,1163" style="fill:none"/>
-   <polyline points="11164,1187 11692,1531 12185,1921 12638,2351 13050,2820 13416,3325 13735,3861 14002,4428 14215,5021 14371,5638 14467,6276 14500,6932 14499,6947 14499,6962 14499,6977 14499,6993" style="fill:none"/>
-   <polyline points="17626,1117 18242,1438 18822,1813 19362,2238 19857,2709 20306,3224 20703,3779 21046,4371 21330,4995 21554,5649 21712,6329 21802,7033" style="fill:none"/>
-   <polyline points="7308,7001 7305,6947 7304,6893 7303,6839 7303,6786 7341,6139 7454,5511 7637,4904 7888,4321 8202,3765 8576,3239 9007,2746 9490,2289 10022,1871 10599,1495 11218,1165" style="fill:none"/>
+   <polyline points="13451,14710 13424,14708" style="fill:none"/>
+   <polyline points="12967,14686 12940,14685" style="fill:none"/>
+   <polyline points="12486,14641 12459,14637" style="fill:none"/>
+   <polyline points="12007,14572 11989,14570" style="fill:none"/>
+   <polyline points="11989,14570 11980,14567" style="fill:none"/>
+   <polyline points="11536,14459 11510,14452" style="fill:none"/>
+   <polyline points="11073,14323 11047,14314" style="fill:none"/>
+   <polyline points="10616,14163 10591,14152" style="fill:none"/>
+   <polyline points="10176,13961 10151,13950" style="fill:none"/>
+   <polyline points="9748,13737 9724,13723" style="fill:none"/>
+   <polyline points="9332,13489 9310,13473" style="fill:none"/>
+   <polyline points="8938,13209 8916,13193" style="fill:none"/>
+   <polyline points="8564,12902 8544,12884" style="fill:none"/>
+   <polyline points="8208,12574 8190,12555" style="fill:none"/>
+   <polyline points="7874,12225 7856,12206" style="fill:none"/>
+   <polyline points="7856,12206 7855,12205" style="fill:none"/>
+   <polyline points="7572,11846 7556,11825" style="fill:none"/>
+   <polyline points="7294,11451 7280,11428" style="fill:none"/>
+   <polyline points="7040,11039 7028,11015" style="fill:none"/>
+   <polyline points="6821,10608 6808,10584" style="fill:none"/>
+   <polyline points="6636,10161 6626,10136" style="fill:none"/>
+   <polyline points="6479,9704 6472,9678" style="fill:none"/>
+   <polyline points="6353,9237 6348,9217" style="fill:none"/>
+   <polyline points="6348,9217 6347,9211" style="fill:none"/>
+   <polyline points="6274,8760 6270,8733" style="fill:none"/>
+   <polyline points="6224,8279 6223,8252" style="fill:none"/>
+   <polyline points="6202,7796 6204,7769" style="fill:none"/>
+   <polyline points="6228,7312 6229,7285" style="fill:none"/>
+   <polyline points="6285,6832 6289,6806" style="fill:none"/>
+   <polyline points="6371,6357 6378,6331" style="fill:none"/>
+   <polyline points="6497,5889 6504,5863" style="fill:none"/>
+   <polyline points="6661,5434 6670,5409" style="fill:none"/>
+   <polyline points="6852,4990 6864,4966" style="fill:none"/>
+   <polyline points="7072,4559 7076,4552" style="fill:none"/>
+   <polyline points="7076,4552 7085,4536" style="fill:none"/>
+   <polyline points="7331,4151 7346,4128" style="fill:none"/>
+   <polyline points="7615,3760 7632,3738" style="fill:none"/>
+   <polyline points="7922,3385 7940,3366" style="fill:none"/>
+   <polyline points="8256,3036 8275,3016" style="fill:none"/>
+   <polyline points="8616,2713 8637,2695" style="fill:none"/>
+   <polyline points="8994,2411 9016,2396" style="fill:none"/>
+   <polyline points="9389,2131 9397,2126" style="fill:none"/>
+   <polyline points="9397,2126 9411,2117" style="fill:none"/>
+   <polyline points="9808,1889 9831,1876" style="fill:none"/>
+   <polyline points="10238,1670 10263,1659" style="fill:none"/>
+   <polyline points="10681,1473 10706,1465" style="fill:none"/>
+   <polyline points="11138,1315 11163,1306" style="fill:none"/>
+   <polyline points="11603,1185 11630,1178" style="fill:none"/>
+   <polyline points="12075,1078 12102,1074" style="fill:none"/>
+   <polyline points="12554,1009 12581,1005" style="fill:none"/>
+   <polyline points="13036,971 13063,970" style="fill:none"/>
+   <polyline points="13519,955 13546,956" style="fill:none"/>
+   <polyline points="14003,978 14030,979" style="fill:none"/>
+   <polyline points="14484,1029 14510,1033" style="fill:none"/>
+   <polyline points="14962,1103 14988,1109" style="fill:none"/>
+   <polyline points="15432,1218 15458,1224" style="fill:none"/>
+   <polyline points="15894,1360 15919,1369" style="fill:none"/>
+   <polyline points="16348,1526 16372,1537" style="fill:none"/>
+   <polyline points="16788,1728 16812,1739" style="fill:none"/>
+   <polyline points="17213,1958 17236,1972" style="fill:none"/>
+   <polyline points="17625,2212 17647,2227" style="fill:none"/>
+   <polyline points="18019,2492 18041,2507" style="fill:none"/>
+   <polyline points="18389,2804 18409,2821" style="fill:none"/>
+   <polyline points="18740,3136 18759,3156" style="fill:none"/>
+   <polyline points="19071,3489 19088,3510" style="fill:none"/>
+   <polyline points="19371,3869 19388,3890" style="fill:none"/>
+   <polyline points="19643,4268 19658,4291" style="fill:none"/>
+   <polyline points="19891,4683 19904,4707" style="fill:none"/>
+   <polyline points="20111,5114 20123,5138" style="fill:none"/>
+   <polyline points="20289,5564 20299,5589" style="fill:none"/>
+   <polyline points="20439,6024 20446,6050" style="fill:none"/>
+   <polyline points="20560,6492 20565,6518" style="fill:none"/>
+   <polyline points="20637,6970 20642,6996" style="fill:none"/>
+   <polyline points="20680,7451 20681,7478" style="fill:none"/>
+   <polyline points="20695,7934 20693,7961" style="fill:none"/>
+   <polyline points="20669,8418 20667,8444" style="fill:none"/>
+   <polyline points="20604,8897 20600,8923" style="fill:none"/>
+   <polyline points="20511,9371 20504,9397" style="fill:none"/>
+   <polyline points="20385,9838 20378,9864" style="fill:none"/>
+   <polyline points="20214,10291 20204,10316" style="fill:none"/>
+   <polyline points="20016,10732 20004,10756" style="fill:none"/>
+   <polyline points="19792,11160 19777,11183" style="fill:none"/>
+   <polyline points="19531,11568 19516,11591" style="fill:none"/>
+   <polyline points="19242,11955 19225,11977" style="fill:none"/>
+   <polyline points="18930,12325 18911,12344" style="fill:none"/>
+   <polyline points="18596,12675 18577,12694" style="fill:none"/>
+   <polyline points="18231,12993 18210,13010" style="fill:none"/>
+   <polyline points="17849,13289 17827,13305" style="fill:none"/>
+   <polyline points="17451,13564 17428,13578" style="fill:none"/>
+   <polyline points="17032,13806 17009,13819" style="fill:none"/>
+   <polyline points="16598,14019 16574,14031" style="fill:none"/>
+   <polyline points="16154,14210 16128,14219" style="fill:none"/>
+   <polyline points="15696,14368 15671,14377" style="fill:none"/>
+   <polyline points="15229,14492 15203,14498" style="fill:none"/>
+   <polyline points="14756,14592 14729,14596" style="fill:none"/>
+   <polyline points="14277,14661 14250,14665" style="fill:none"/>
+   <polyline points="13794,14693 13767,14694" style="fill:none"/>
+   <polyline points="13503,7506 13503,7481 13503,7456 13503,7431 13503,7407 13533,6759 13623,6128 13769,5518 13969,4931 14220,4369 14519,3835 14863,3333 15250,2864 15677,2433 16141,2040 16640,1691" style="fill:none"/>
+   <polyline points="10168,1715 10696,2059 11189,2449 11642,2879 12054,3348 12420,3853 12739,4389 13006,4956 13219,5549 13375,6166 13471,6804 13504,7460 13503,7475 13503,7490 13503,7505 13503,7521" style="fill:none"/>
+   <polyline points="16630,1645 17246,1966 17826,2341 18366,2766 18861,3237 19310,3752 19707,4307 20050,4899 20334,5523 20558,6177 20716,6857 20806,7561" style="fill:none"/>
+   <polyline points="6312,7529 6309,7475 6308,7421 6307,7367 6307,7314 6345,6667 6458,6039 6641,5432 6892,4849 7206,4293 7580,3767 8011,3274 8494,2817 9026,2399 9603,2023 10222,1693" style="fill:none"/>
+   <polyline points="13504,33391 13478,34103 13406,34720 13294,35250 13151,35698 12982,36072 12796,36378 12598,36623 12398,36813 12200,36957 12014,37059 11845,37128 11702,37170 11590,37191 11518,37199 11493,37201" style="fill:none"/>
+   <polyline points="13504,33285 13532,34017 13612,34651 13735,35196 13893,35656 14080,36040 14286,36355 14504,36606 14726,36803 14944,36950 15150,37055 15337,37126 15495,37169 15618,37191 15698,37199 15727,37201 15837,37201 16099,37201 16412,37201 16674,37201 16785,37201" style="fill:none"/>
   </g>
   <g style="stroke:none;fill:rgb(0,0,0)">
    <text x="62653" y="10795">Changelog: 
    </text>
    <text x="62653" y="11483">- enhancements in curveature of the head
+   </text>
+   <text x="62653" y="12171">- further enhancements of head and behinds
    </text>
   </g>
  </g>
