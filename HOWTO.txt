@@ -1,0 +1,13 @@
+/*
+free-penguin HOWTO
+
+date:	26th. Feb 2003
+author:	joerg.feuerhake@free-penguin.org
+*/
+
+well, just get the required hardware,
+take the shapes from the pattern, 
+which is scalable, so size does not matter, 
+sew it all together stuff it and ... 
+
+...done, a nice tux

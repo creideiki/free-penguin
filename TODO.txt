@@ -1,0 +1,10 @@
+/*
+free-penguin TODOS
+
+date:	26th. Feb 2003
+author:	joerg.feuerhake@free-penguin.org
+*/
+
+-we need further documentation on hardware requirements
+-we need a detailed written documentation
+-some nice pictures of your free penguin
