@@ -1,7 +1,7 @@
 /*
 free-penguin HOWTO
 
-date:	26th. Feb 2003
+date:	2nd. May 2004
 author:	joerg.feuerhake@free-penguin.org
 */
 
@@ -9,17 +9,9 @@ in this archive you should find the following files:
 -rw-r--r--    1 user    group         266 2003-02-26 16:37 HOWTO.txt
 -rw-r--r--    1 user    group       18009 2003-02-26 16:31 LICENSE.txt
 -rw-r--r--    1 user    group         227 2003-02-26 16:49 TODO.txt
--rw-r--r--    1 user    group     1351680 2004-01-29 13:19 pengu_orig.eps
--rw-r--r--    1 user    group       10256 2004-01-29 13:19 pengu_orig.fig
--rw-r--r--    1 user    group       54658 2004-01-29 13:19 pengu_orig.pdf
--rw-r--r--    1 user    group     1323008 2004-01-29 13:29 pengu_scaled_a4.eps
--rw-r--r--    1 user    group        9705 2004-01-29 13:28 pengu_scaled_a4.fig
--rw-r--r--    1 user    group       43389 2004-01-29 13:29 pengu_scaled_a4.pdf
-
-you find two kinds of pattern, those called *_scaled_a4.* are printable on ISO A4 paper format. those called *_orig.* print the actual pattern size as taken from the original.
 
 well, just get the required hardware,
-take the shapes from the pattern, 
+take the shapes from the pattern,
 which is scalable, so size does not matter, 
 sew it all together stuff it and ... 
 
