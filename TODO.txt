@@ -10,3 +10,6 @@ Evaluate LibreOffice as a drawing tool, consider porting to Inkscape
 Evaluate the wedge construction, consider changing to standard darts
 
 Include seam allowance in pattern pieces
+
+Investigate licensing. How does the pattern being GPL affect finished
+plushies? Check how the 3D printing community does things.
