@@ -13,3 +13,82 @@ Include seam allowance in pattern pieces
 
 Investigate licensing. How does the pattern being GPL affect finished
 plushies? Check how the 3D printing community does things.
+
+
+Notes from my first attempt at sewing the v0.6 pattern:
+
+Cutting pieces:
+
+    The lack of precise seam allowances is annoying
+
+Sewing bib to side:
+
+    Clip the seam allowance in the side to allow it to stretch along
+    the long belly curve
+
+    There needs to be alignment points along the long belly curve
+
+    There is excess fabric in the bib by the cheeks. I ended up sewing
+    a straight line from the corner of the beak to the corner of the
+    chin, cutting off the cheek entirely.
+
+    Sew with the bib facing upwards
+
+    Consider making the bib a single piece
+
+Sides:
+
+    The curved wedges are a pain; use straight darts with the same
+    endpoints instead
+
+Attaching sides to bottom:
+
+    Need aligment points. Match against darts in the sides and ends of
+    side pieces.
+
+    Side pieces need to be clipped in the seam allowance to follow the
+    curves of the bottom piece. Mark this (under and just behind the
+    foot attachment area, and in the back).
+
+    Sew with the bottom piece facing downwards
+
+Wings:
+
+    Need alignment points
+
+Beak:
+
+    Mark opening
+
+Feet:
+
+    Alignment points
+
+    Opening
+
+Sewing sides together:
+
+    Opening. Lower back.
+
+    Sewing order. Black below bib, lower back up to opening, bib, head
+    and upper back.
+
+Stuffing:
+
+    The standard pattern is huge, with a lot of dead space inside, so
+    it requires a lot of stuffing. Consider shrinking the pattern so
+    the side pieces fit comfortably on just two A4 pages.
+
+Attaching beak, wings and feet:
+
+    Do this before or after closing and stuffing the body? Before
+    makes sewing easier, but after makes positioning easier. Beak has
+    to be done after. Ended up doing everything after.
+
+Finished appearance, compared to the original drawing of Tux:
+
+    Eyes should be lower, lower edge cut off by the beak
+
+    Body should be wider
+
+    Neck should taper gently up to just below beak height
