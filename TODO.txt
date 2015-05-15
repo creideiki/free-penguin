@@ -92,3 +92,27 @@ Finished appearance, compared to the original drawing of Tux:
     Body should be wider
 
     Neck should taper gently up to just below beak height
+
+
+Notes from trying to redraw the pattern in Valentina
+(http://valentinaproject.bitbucket.org/):
+
+    Automatic seam allowance and piece layout would be awesome.
+
+    Can't get automatic seam allowance to work.
+
+    No freehand drawing - everything needs to be mathematically
+    specified points. Makes placing embroidery for eyes and feet
+    awkward. No tracing over bitmaps makes inputting foreign patterns
+    tedious ruler and calculator work.
+
+    Not able to specify points by arbitrary intersections, or arcs by
+    points. Wedges require intersection between two arcs, which is
+    impossible. Arcs can be segmented, but only by length, not
+    angle. Making them straight darts instead would mean the
+    intersection is between arc and line, which is supported, but then
+    there is no way to have the arcs end at the point (needs to be a
+    specified angle).
+
+    No ellipse drawing, so embroidery placements would have to be made
+    up of several bézier curves.
